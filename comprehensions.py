@@ -32,3 +32,4 @@ print("even list", even_list)
 print("even odd list", even_odd)
 
 #print("Positive") if a>0 else print("negative") if a<0 else print("zerro")
+
